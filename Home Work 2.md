@@ -5,4 +5,5 @@
 ![diagram](diagram.jpg).
 
 Вывод одной строки:
+
 ![result](result.jpg).
