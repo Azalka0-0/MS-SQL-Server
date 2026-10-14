@@ -1,9 +1,9 @@
 БД:
-![UniversityDB](UniversityDB.sql).
+![UniversityDB](pictures/UniversityDB.sql).
 
 Диаграмма БД:
-![diagram](diagram.jpg).
+![diagram](ictures/diagram.jpg).
 
 Вывод одной строки:
 
-![result](result.jpg).
+![result](ictures/result.jpg).
