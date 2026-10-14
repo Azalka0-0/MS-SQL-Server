@@ -2,8 +2,8 @@
 ![UniversityDB](pictures/UniversityDB.sql).
 
 Диаграмма БД:
-![diagram](ictures/diagram.jpg).
+![diagram](pictures/diagram.jpg).
 
 Вывод одной строки:
 
-![result](ictures/result.jpg).
+![result](pictures/result.jpg).
