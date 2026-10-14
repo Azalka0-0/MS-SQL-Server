@@ -1,11 +1,11 @@
 Код:
 
-![ProceduresAndFunctions](picture/ProceduresAndFunctions.sql)
+![ProceduresAndFunctions](pictures/ProceduresAndFunctions.sql)
 
 Функция :
 
-![function](picture/function.jpg)
+![function](pictures/function.jpg)
 
 Процедура: 
 
-![procedure](picture/procedure.jpg)
+![procedure](pictures/procedure.jpg)
