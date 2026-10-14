@@ -1,7 +1,7 @@
 Создание БД:
 
-![скрин1 hw1](pictures/скрин1_hw1.jpg)
+![скрин1 hw1](pictures/скрин1hw1.jpg)
 
 Создание первой таблицы:
 
-![скрин2 hw1](pictures/скрин2_hw1.jpg)
+![скрин2 hw1](pictures/скрин2hw1.jpg)
