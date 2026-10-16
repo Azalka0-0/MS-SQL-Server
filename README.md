@@ -52,4 +52,5 @@ SQL Server　T-SQL　SSMS
 <p align="center">
   <i>Учебный проект · 2026</i>
 </p>
-![кот](кот3.jpg)
+
+![кот3](кот3.jpg)
